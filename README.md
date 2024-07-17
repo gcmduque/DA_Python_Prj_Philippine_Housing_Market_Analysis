@@ -9,7 +9,7 @@
  - Data Acquisition: Data Scraping - City Data
  - Issues and Resolutions
 
-B. Data Acquisition
+B. Data Cleaning using Python
 - Data Cleaning: Housing Market Data (City)
 - Data Cleaning: Housing Market Data (Latitude and Longitude)
 - Data Cleaning: City Data
